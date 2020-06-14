@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Face Analytic (Expression)</string>
+    <string name="todo">TODO</string>
+    <string name="hello">Hello! let me see your expression..</string>
+    <string name="timer_off">off</string>
+    <string name="timer_3s">3s</string>
+    <string name="timer_5s">5s</string>
+    <string name="cloud_radio">Cloud prediction</string>
+    <string name="local_radio">Local prediction</string>
+    <string name="pref_ok_button">Ok</string>
+    <string name="url">http://127.0.0.1/stream</string>
+    <string name="urlL">http://127.0.0.1/dl</string>
+    <string name="tfLite">Download TFLite model</string>
+    <string name="tfLiteUp">Model ready, click to update</string>
+</resources>
